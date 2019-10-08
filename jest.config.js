@@ -1,4 +1,4 @@
-const esModules = ['validator', 'seqeulize'].join('|');
+const esModules = ['sequelize'].join('|')
 
 module.exports = {
     rootDir: '.',
